@@ -1,4 +1,15 @@
-# Project Overview
+#FEED READER TESTING:
+This project helped me learn how to write JavaScript Testing. After writing the tests how to make them green from all red. It is a very important step while making any web applications to write the tests for those application before you start working on the project and then make every songle test green one by one.
+
+##How to use this project:
+Using this project is very simple, you can follow the following steps:
+ 1. Download the project zip folder from Github.
+ 2. Extract the zip and open up index.html
+ 3. You can also view the well written and commented code in the folder.
+
+#Instructions By Udacity:
+
+## Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
@@ -21,7 +32,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 * Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
 
-# How will I complete this project?
+## How will I complete this project?
 
 1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
 2. Review the functionality of the application within your browser.
