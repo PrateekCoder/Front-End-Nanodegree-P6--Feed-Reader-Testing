@@ -1,5 +1,5 @@
 #FEED READER TESTING:
-This project helped me learn how to write JavaScript Testing. After writing the tests how to make them green from all red. It is a very important step while making any web applications to write the tests for those application before you start working on the project and then make every songle test green one by one.
+This project helped me learn how to write JavaScript Testing using Jasmine 2.2. After writing the tests how to make them green from all red. It is a very important step while making any web applications to write the tests for those application before you start working on the project and then make every songle test green one by one.
 
 ##How to use this project:
 Using this project is very simple, you can follow the following steps:
